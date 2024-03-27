@@ -7,6 +7,7 @@ Just some notes
  - https://github.com/viktordw/bulk-imapsync
 
  - https://github.com/viktordw/install-zabbix
+ - https://github.com/viktordw/LibreNMS-Install
  - https://github.com/viktordw/vt-scan
 
  - https://github.com/viktordw/realpath
